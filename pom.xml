@@ -22,7 +22,7 @@
         </site>
         <repository>
             <id>jar-files</id>
-            <url>file:///temp/maven-testing/dist/</url>
+            <url>file:///repos/MavenSample/dist/</url>
         </repository>
     </distributionManagement>
 

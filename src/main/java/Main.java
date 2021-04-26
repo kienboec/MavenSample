@@ -9,7 +9,7 @@ public final class Main {
 
     /**
      * Entry point for the application.
-     * @param args command line arguments
+     * @param args command line arguments (plain text; ignored)
      */
     public static void main(final String[] args) {
         // "C:\Users\Daniel Kienbock\.jdks\openjdk-15.0.2\bin\java.exe"
